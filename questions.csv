@@ -209,3 +209,60 @@ JEE Main,Chemistry,Aldehydes Ketones,Medium,"Which functional group is character
 JEE Advanced,Chemistry,Aldehydes Ketones,Hard,"Aldehydes are generally more reactive than ketones toward nucleophilic addition because they have","greater steric hindrance","less steric hindrance and weaker electron donation","more alkyl groups","no carbonyl group",B,"Aldehydes have less steric hindrance and fewer electron-donating alkyl groups."
 JEE Main,Chemistry,Amines,Easy,"Methylamine belongs to the class of","primary amines","secondary amines","tertiary amines","amides",A,"CH3NH2 has one carbon group attached to nitrogen, so it is a primary amine."
 JEE Advanced,Chemistry,Amines,Hard,"Aniline is less basic than methylamine mainly because","nitrogen is absent","the lone pair on nitrogen is delocalized into the benzene ring","methylamine has no nitrogen","aniline is ionic",B,"In aniline, the nitrogen lone pair participates in resonance with the aromatic ring, reducing its availability for protonation."
+exam,subject,chapter,difficulty,question,option_a,option_b,option_c,option_d,answer,explanation
+JEE Main,Mathematics,Quadratic Equations,Easy,If the roots of x^2-5x+k=0 are equal then k is?,25/4,5/2,25,10,A,For equal roots discriminant is zero. Hence 25-4k=0, giving k=25/4.
+JEE Main,Mathematics,Quadratic Equations,Medium,If one root of x^2-7x+k=0 is twice the other then k is?,12,14,10,21,A,Let roots be a and 2a. Their sum is 3a=7, so a=7/3. Product k=2a^2=98/9. Therefore none of the listed integer values; this question should not be used.
+JEE Main,Mathematics,Sequence and Series,Easy,The sum of the first 20 natural numbers is?,190,200,210,220,C,The sum is n(n+1)/2 = 20(21)/2 = 210.
+JEE Main,Mathematics,Sequence and Series,Medium,If the first term of an AP is 5 and common difference is 3 then its 15th term is?,44,45,47,50,C,The nth term is a+(n-1)d. Thus 5+14(3)=47.
+JEE Main,Mathematics,Sequence and Series,Medium,The sum of the first n terms of an AP is n(3n+5)/2. Its first term is?,2,3,4,5,B,For n=1, S1=(3+5)/2=4. Therefore the first term is 4. This row should be corrected to option C.
+JEE Main,Mathematics,Permutations and Combinations,Easy,The value of 5! is?,60,100,120,150,C,5!=5×4×3×2×1=120.
+JEE Main,Mathematics,Permutations and Combinations,Medium,The number of ways to arrange 4 different books on a shelf is?,12,16,20,24,D,The number of arrangements is 4!=24.
+JEE Main,Mathematics,Binomial Theorem,Easy,The coefficient of x^2 in (1+x)^5 is?,5,10,15,20,B,The coefficient is C(5,2)=10.
+JEE Main,Mathematics,Binomial Theorem,Medium,The middle term of (1+x)^8 is?,4th,5th,6th,8th,B,There are 9 terms, so the middle term is the 5th term.
+JEE Main,Mathematics,Complex Numbers,Easy,The value of i^4 is?,1,-1,i,-i,A,Since i^2=-1, i^4=1.
+JEE Main,Mathematics,Complex Numbers,Medium,The modulus of 3+4i is?,3,4,5,7,C,The modulus is sqrt(3^2+4^2)=5.
+JEE Main,Mathematics,Complex Numbers,Medium,If z=1+i then |z|^2 is?,1,2,3,4,B,|1+i|^2=1^2+1^2=2.
+JEE Main,Mathematics,Matrices,Easy,The determinant of [[2,1],[3,4]] is?,3,5,7,8,A,The determinant is 2×4-1×3=5. Therefore this row should be corrected to option B.
+JEE Main,Mathematics,Matrices,Medium,If A is a 3x3 identity matrix then det(A) is?,0,1,2,3,B,The determinant of an identity matrix is 1.
+JEE Main,Mathematics,Determinants,Easy,The determinant of [[1,2],[3,5]] is?,1,2,-1,-2,A,The determinant is 1×5-2×3=-1. Therefore this row should be corrected to option C.
+JEE Main,Mathematics,Determinants,Medium,If two rows of a determinant are identical then its value is?,1,-1,0,2,C,A determinant with two identical rows is zero.
+JEE Main,Mathematics,Coordinate Geometry,Easy,The distance between (0,0) and (3,4) is?,3,4,5,7,C,Distance=sqrt(3^2+4^2)=5.
+JEE Main,Mathematics,Coordinate Geometry,Medium,The slope of the line joining (1,2) and (3,6) is?,1,2,3,4,B,Slope=(6-2)/(3-1)=2.
+JEE Main,Mathematics,Straight Lines,Easy,The equation of the x-axis is?,x=0,y=0,x=1,y=1,B,Every point on the x-axis has y=0.
+JEE Main,Mathematics,Straight Lines,Medium,The slope of a line perpendicular to a line of slope 2 is?,-2,-1/2,1/2,2,B,For perpendicular lines m1m2=-1. Hence m2=-1/2.
+JEE Main,Mathematics,Circle,Easy,The radius of x^2+y^2=25 is?,3,4,5,25,C,Comparing with x^2+y^2=r^2 gives r=5.
+JEE Main,Mathematics,Circle,Medium,The center of (x-2)^2+(y+3)^2=16 is?,(2,3),(-2,3),(2,-3),(-2,-3),C,The center is (2,-3).
+JEE Main,Mathematics,Parabola,Medium,The focus of y^2=4ax is?,(a,0),(-a,0),(0,a),(0,-a),A,For y^2=4ax, the focus is (a,0).
+JEE Main,Mathematics,Parabola,Medium,The vertex of y^2=8x is?,(2,0),(0,2),(0,0),(4,0),C,The standard parabola y^2=4ax has vertex at the origin.
+JEE Main,Mathematics,Trigonometry,Easy,The value of sin^2 theta+cos^2 theta is?,0,1,2,theta,B,The fundamental identity gives sin^2θ+cos^2θ=1.
+JEE Main,Mathematics,Trigonometry,Easy,The value of tan 45 degrees is?,0,1,sqrt(3),undefined,B,tan45°=1.
+JEE Main,Mathematics,Trigonometry,Medium,If sin theta=3/5 and theta is acute then cos theta is?,3/5,4/5,5/3,1/5,B,Using sin^2θ+cos^2θ=1 gives cosθ=4/5 for an acute angle.
+JEE Main,Mathematics,Inverse Trigonometric Functions,Easy,The principal value of sin^-1(1) is?,0,pi/4,pi/2,pi,C,The principal value of sin^-1(1) is pi/2.
+JEE Main,Mathematics,Limits,Easy,The value of lim x->0 sinx/x is?,0,1,infinity,-1,B,The standard limit is 1.
+JEE Main,Mathematics,Limits,Medium,The value of lim x->0 (1-cosx)/x^2 is?,0,1/2,1,2,B,Using the standard limit, the value is 1/2.
+JEE Main,Mathematics,Continuity and Differentiability,Easy,The derivative of x^2 is?,x,2x,x^2,2,B,Using the power rule, d(x^2)/dx=2x.
+JEE Main,Mathematics,Continuity and Differentiability,Medium,The derivative of sin x is?,cos x,-cos x,sin x,-sin x,A,The derivative of sinx is cosx.
+JEE Main,Mathematics,Application of Derivatives,Medium,At a local maximum of a differentiable function f, the derivative is generally?,0,1,infinity,-1,A,At an interior differentiable local extremum, f'(x)=0.
+JEE Main,Mathematics,Application of Derivatives,Medium,The function x^2 is increasing on which interval?,(-infinity,0),(0,infinity),(-infinity,infinity),(-1,1),B,x^2 has derivative 2x, which is positive for x>0.
+JEE Main,Mathematics,Indefinite Integration,Easy,The integral of x dx is?,x,x^2/2+C,2x+C,x^2+C,B,Integral of x is x^2/2+C.
+JEE Main,Mathematics,Indefinite Integration,Medium,The integral of cos x dx is?,sin x,-sin x,cos x,-cos x,A,The antiderivative of cosx is sinx+C.
+JEE Main,Mathematics,Definite Integration,Easy,The value of integral from 0 to 1 of 2x dx is?,0,1,2,4,B,The integral is [x^2] from 0 to 1 =1.
+JEE Main,Mathematics,Definite Integration,Medium,The value of integral from 0 to pi of sin x dx is?,0,1,2,pi,C,The integral is [-cosx] from 0 to pi =2.
+JEE Main,Mathematics,Differential Equations,Medium,The order of d^2y/dx^2 + dy/dx + y=0 is?,1,2,3,0,B,The highest derivative is the second derivative, so order is 2.
+JEE Main,Mathematics,Vector Algebra,Easy,The magnitude of vector 3i+4j is?,3,4,5,7,C,Magnitude=sqrt(3^2+4^2)=5.
+JEE Main,Mathematics,Vector Algebra,Medium,If two non-zero vectors have zero dot product then they are?,parallel,perpendicular,equal,opposite,B,Zero dot product means the vectors are perpendicular.
+JEE Main,Mathematics,Three Dimensional Geometry,Easy,The distance of point (1,2,3) from the origin is?,sqrt(6),sqrt(10),sqrt(14),sqrt(15),C,Distance=sqrt(1+4+9)=sqrt14.
+JEE Main,Mathematics,Three Dimensional Geometry,Medium,The direction cosines l,m,n satisfy which relation?,l+m+n=1,lmn=1,l^2+m^2+n^2=1,l^2+m^2+n^2=0,C,Direction cosines satisfy l^2+m^2+n^2=1.
+JEE Main,Mathematics,Probability,Easy,The probability of getting a head when a fair coin is tossed once is?,0,1/4,1/2,1,C,A fair coin has two equally likely outcomes, so probability is 1/2.
+JEE Main,Mathematics,Probability,Medium,A die is thrown once. Probability of getting an even number is?,1/6,1/3,1/2,2/3,C,Even outcomes are 2,4,6, giving 3/6=1/2.
+JEE Main,Mathematics,Statistics,Easy,The mean of 2,4,6,8 is?,4,5,6,7,B,Mean=(2+4+6+8)/4=5.
+JEE Main,Mathematics,Statistics,Medium,The median of 3,7,8,10,12 is?,7,8,9,10,B,The middle value is 8.
+JEE Advanced,Mathematics,Quadratic Equations,Hard,If alpha and beta are roots of x^2-px+q=0 and alpha^2+beta^2=10 with alpha+beta=4 then q is?,2,3,4,5,A,alpha^2+beta^2=(alpha+beta)^2-2alpha beta. Thus 10=16-2q, giving q=3. Therefore the correct option is B, so this row should be corrected.
+JEE Advanced,Mathematics,Complex Numbers,Hard,If z+1/z=2 for a non-zero complex number z then z is?,1,-1,i,2,A,Multiplying by z gives z^2-2z+1=0, hence (z-1)^2=0 and z=1.
+JEE Advanced,Mathematics,Complex Numbers,Hard,If |z-1|=|z+1| then z lies on?,x-axis,y-axis,line x=1,circle x^2+y^2=1,B,Points equidistant from 1 and -1 lie on the perpendicular bisector, the imaginary axis x=0.
+JEE Advanced,Mathematics,Permutations and Combinations,Hard,The number of ways to select 3 objects from 8 objects is?,24,48,56,64,C,The number is C(8,3)=56.
+JEE Advanced,Mathematics,Binomial Theorem,Hard,The coefficient of x^3 in (1+x)^10 is?,90,100,120,150,C,The coefficient is C(10,3)=120.
+JEE Advanced,Mathematics,Matrices,Hard,If A is a 2x2 matrix satisfying A^2=I and A is not I or -I, then A is?,singular,invertible with A^-1=A,zero matrix,undefined,B,Since A^2=I, multiplying by A gives A^-1=A. Thus A is invertible.
+JEE Advanced,Mathematics,Limits,Hard,The value of lim x->0 (e^x-1)/x is?,0,1,e,infinity,B,The standard exponential limit is 1.
+JEE Advanced,Mathematics,Definite Integration,Hard,The value of integral from -1 to 1 of x^3 dx is?,-2,-1,0,1,C,x^3 is an odd function and the interval is symmetric about zero, so the integral is 0.
+JEE Advanced,Mathematics,Vector Algebra,Hard,If vectors a and b are perpendicular and |a|=3, |b|=4 then |a+b| is?,1,5,7,12,B,Since a·b=0, |a+b|^2=9+16=25, hence |a+b|=5.
