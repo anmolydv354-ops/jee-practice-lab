@@ -1,0 +1,46 @@
+id,exam,subject,chapter,question,option_a,option_b,option_c,option_d,answer,explanation,difficulty
+1,JEE Main,Physics,Mechanics,"A particle starts from rest with acceleration 2 m/s². What is its velocity after 5 s?","5 m/s","10 m/s","15 m/s","20 m/s",B,"Using v = u + at, v = 0 + 2×5 = 10 m/s.",Easy
+2,JEE Main,Physics,Mechanics,"A body is thrown vertically upward with speed 20 m/s. Take g = 10 m/s². What is its maximum height?","10 m","20 m","30 m","40 m",B,"Using v² = u² - 2gh, h = 20 m.",Easy
+3,JEE Main,Physics,Mechanics,"A 2 kg body moves with velocity 5 m/s. What is its kinetic energy?","10 J","20 J","25 J","50 J",C,"K = 1/2 mv² = 25 J.",Easy
+4,JEE Main,Physics,Mechanics,"A force of 10 N acts on a 2 kg body. What is its acceleration?","2 m/s²","5 m/s²","10 m/s²","20 m/s²",B,"From F = ma, a = 5 m/s².",Easy
+5,JEE Main,Physics,Work Energy Power,"A force of 10 N acts through a displacement of 2 m in its direction. Work done is:","5 J","10 J","20 J","40 J",C,"W = Fs cosθ = 20 J.",Easy
+6,JEE Main,Physics,Work Energy Power,"A body of mass 2 kg has speed 4 m/s. Its kinetic energy is:","4 J","8 J","16 J","32 J",C,"K = 1/2 mv² = 16 J.",Easy
+7,JEE Main,Physics,Electrostatics,"Two equal positive charges are placed symmetrically about a point. The electric field at the midpoint is:","Maximum","Zero","Infinite","Depends only on charge",B,"The two electric fields have equal magnitude and opposite directions.",Easy
+8,JEE Main,Physics,Electrostatics,"The SI unit of electric charge is:","Volt","Ampere","Coulomb","Ohm",C,"The SI unit of charge is coulomb.",Easy
+9,JEE Main,Physics,Current Electricity,"Ohm's law is represented by:","V = IR","P = VI","Q = It","F = qE",A,"Ohm's law states V = IR.",Easy
+10,JEE Main,Physics,Current Electricity,"A resistor of 5 Ω is connected to a 10 V battery. Current through it is:","0.5 A","2 A","5 A","50 A",B,"I = V/R = 2 A.",Easy
+11,JEE Main,Chemistry,Atomic Structure,"Which quantum number determines the shape of an orbital?","Principal quantum number","Azimuthal quantum number","Magnetic quantum number","Spin quantum number",B,"The azimuthal quantum number determines orbital shape.",Easy
+12,JEE Main,Chemistry,Atomic Structure,"The maximum number of electrons in the second shell is:","2","4","8","18",C,"Maximum electrons = 2n² = 8.",Easy
+13,JEE Main,Chemistry,Chemical Bonding,"Which molecule has linear geometry?","H2O","NH3","CO2","CH4",C,"CO2 has linear geometry.",Easy
+14,JEE Main,Chemistry,Chemical Bonding,"The bond in NaCl is mainly:","Covalent","Ionic","Metallic","Hydrogen",B,"NaCl forms an ionic bond.",Easy
+15,JEE Main,Chemistry,Organic Chemistry,"Which functional group is present in ethanol?","Aldehyde","Ketone","Alcohol","Carboxylic acid",C,"Ethanol contains the hydroxyl (-OH) group.",Easy
+16,JEE Advanced,Chemistry,Organic Chemistry,"The molecular formula of methane is:","CH2","CH3","CH4","C2H6",C,"Methane contains one carbon and four hydrogen atoms.",Easy
+17,JEE Advanced,Chemistry,Thermodynamics,"For an exothermic reaction, ΔH is generally:","Positive","Negative","Zero","Infinite",B,"Heat is released, so enthalpy change is negative.",Easy
+18,JEE Advanced,Chemistry,Thermodynamics,"The SI unit of energy is:","Calorie","Joule","Watt","Pascal",B,"The SI unit of energy is joule.",Easy
+19,JEE Advanced,Chemistry,Equilibrium,"At equilibrium, the concentrations of reactants and products are:","Always equal","Constant with time","Always zero","Continuously increasing",B,"At equilibrium, macroscopic concentrations remain constant with time.",Easy
+20,JEE Advanced,Chemistry,Redox,"Oxidation is generally defined as:","Gain of electrons","Loss of electrons","Gain of protons","Loss of neutrons",B,"Oxidation involves loss of electrons.",Easy
+21,JEE Advanced,Mathematics,Algebra,"If x + 1 = 5, what is x?","2","3","4","5",C,"Subtracting 1 from both sides gives x = 4.",Easy
+22,JEE Advanced,Mathematics,Algebra,"The roots of x² - 5x + 6 = 0 are:","1 and 6","2 and 3","-2 and -3","3 and 4",B,"x² - 5x + 6 = (x-2)(x-3).",Easy
+23,JEE Advanced,Mathematics,Calculus,"What is the derivative of x² with respect to x?","x","2x","x²","2",B,"Using the power rule, d(x²)/dx = 2x.",Easy
+24,JEE Advanced,Mathematics,Calculus,"The derivative of sin x is:","cos x","-cos x","sin x","-sin x",A,"d(sin x)/dx = cos x.",Easy
+25,JEE Advanced,Mathematics,Coordinate Geometry,"What is the slope of y = 3x + 2?","2","3","5","1",B,"Comparing with y = mx + c, slope m = 3.",Easy
+26,JEE Advanced,Mathematics,Coordinate Geometry,"The distance between (0,0) and (3,4) is:","3","4","5","7",C,"Distance = √(3²+4²) = 5.",Easy
+27,JEE Advanced,Mathematics,Probability,"A fair coin is tossed once. Probability of getting heads is:","0","1/4","1/2","1",C,"There are two equally likely outcomes and one favorable outcome.",Easy
+28,JEE Advanced,Mathematics,Probability,"A fair die is thrown once. Probability of getting 6 is:","1/2","1/3","1/6","1/12",C,"There is one favorable outcome among six equally likely outcomes.",Easy
+29,JEE Advanced,Mathematics,Sequences and Series,"The common difference of the AP 2, 5, 8, 11,... is:","2","3","5","8",B,"Each term increases by 3.",Easy
+30,JEE Advanced,Mathematics,Sequences and Series,"The first term of the GP 2, 6, 18,... is:","1","2","3","6",B,"The first term is 2.",Easy
+31,JEE Main,Mathematics,Algebra,"If 2x + 3 = 11, the value of x is:","2","3","4","5",C,"2x = 8, therefore x = 4.",Easy
+32,JEE Main,Mathematics,Calculus,"The derivative of x³ is:","x²","2x²","3x²","3x³",C,"Using the power rule, d(x³)/dx = 3x².",Easy
+33,JEE Main,Mathematics,Coordinate Geometry,"The coordinates of the midpoint of (2,4) and (6,8) are:","(3,5)","(4,6)","(5,7)","(6,4)",B,"Midpoint = ((2+6)/2,(4+8)/2) = (4,6).",Easy
+34,JEE Main,Mathematics,Probability,"A die is thrown once. What is the probability of getting an even number?","1/6","1/3","1/2","2/3",C,"Even outcomes are 2,4,6, giving 3 favorable outcomes out of 6.",Easy
+35,JEE Main,Mathematics,Sequences and Series,"The next term of the sequence 2, 4, 8, 16,... is:","20","24","32","36",C,"Each term is multiplied by 2, so the next term is 32.",Easy
+36,JEE Advanced,Physics,Rotational Motion,"A uniform disc of mass M and radius R rotates about an axis through its center perpendicular to its plane. Its moment of inertia is:","MR²","(1/2)MR²","(1/3)MR²","2MR²",B,"The moment of inertia of a uniform disc about its central perpendicular axis is (1/2)MR².",Easy
+37,JEE Advanced,Physics,Gravitation,"The escape velocity from the surface of a planet is proportional to:","√(M/R)","M/R","√(R/M)","MR",A,"Escape velocity is ve = √(2GM/R), so it is proportional to √(M/R).",Easy
+38,JEE Advanced,Physics,Simple Harmonic Motion,"In simple harmonic motion, acceleration is:","Constant","Proportional to displacement and opposite in direction","Proportional to velocity","Zero",B,"For SHM, a = -ω²x.",Easy
+39,JEE Advanced,Physics,Electromagnetic Induction,"According to Faraday's law, induced emf is proportional to the:","Electric charge","Rate of change of magnetic flux","Magnetic field only","Resistance only",B,"Faraday's law gives emf = -dΦ/dt.",Easy
+40,JEE Advanced,Physics,Modern Physics,"The energy of a photon is given by:","mc²","hν","mv²","qV",B,"Photon energy is E = hν.",Easy
+41,JEE Advanced,Mathematics,Complex Numbers,"If z = 3 + 4i, then |z| is:","3","4","5","7",C,"|z| = √(3² + 4²) = 5.",Easy
+42,JEE Advanced,Mathematics,Matrices,"The determinant of the matrix [[1,2],[3,4]] is:","-2","2","10","-10",A,"Determinant = 1×4 - 2×3 = -2.",Easy
+43,JEE Advanced,Mathematics,Trigonometry,"The value of sin²θ + cos²θ is:","0","1/2","1","2",C,"The fundamental trigonometric identity is sin²θ + cos²θ = 1.",Easy
+44,JEE Advanced,Mathematics,Vectors,"The dot product of two perpendicular vectors is:","-1","0","1","Depends on magnitude",B,"A·B = |A||B|cos90° = 0.",Easy
+45,JEE Advanced,Mathematics,Differential Equations,"The order of the differential equation d²y/dx² + y = 0 is:","0","1","2","3",C,"The highest derivative present is the second derivative, so the order is 2.",Easy
